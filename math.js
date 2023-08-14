@@ -9,3 +9,13 @@
 const add = (a , b) => {
     return a + b;
 }
+
+/**
+ * substract two numbers and returns the result
+ * @param {number} a 
+ * @param {number} b 
+ * @returns the result
+ */
+const sub = (a , b) => {
+    return a - b;
+}
