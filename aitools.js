@@ -1,1 +1,1 @@
-console.log('ai is far more dangerous than others.')
+console.log('ai is far more dangerous than others.') 

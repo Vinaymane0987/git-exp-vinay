@@ -4,7 +4,7 @@
  * adds to numbers and returns the results.
  * @param {number} a 
  * @param {number} b 
- * @returns the result
+ * @returns the result 
  */
 const add = (a , b) => {
     return a + b;
