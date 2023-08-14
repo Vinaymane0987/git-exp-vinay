@@ -46,3 +46,14 @@ const testMul = () => {
 const div = (a , b) => {
     return a / b;
 }
+
+/**
+ * mulOp multiply two numbers and subtract with the last number and return the result.
+ * @param {number} a 
+ * @param {number} b 
+ * @param {number} c 
+ * @returns the result
+ */
+const mulOp = (a , b , c) => {
+    return a * b - c;
+}
