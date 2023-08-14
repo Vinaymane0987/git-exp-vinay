@@ -35,3 +35,14 @@ const testMul = () => {
   const expected = 10;
   asert(mul(2, 5) === expected, "should return the expected result.");
 };
+
+
+/**
+ * it divides the two numbers and return the result.
+ * @param {number} a 
+ * @param {number} b 
+ * @returns the result
+ */
+const div = (a , b) => {
+    return a / b;
+}
