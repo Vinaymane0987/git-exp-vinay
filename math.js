@@ -10,6 +10,7 @@ const mul = (a, b) => {
   return a * b;
 };
 
+// this function will test whether the multiplication function returns the correct result or not.
 const testMul = () => {
   const expected = 10;
   asert(mul(2, 5) === expected, "should return the expected result.");
