@@ -47,6 +47,7 @@ const div = (a , b) => {
     return a / b;
 }
 
+
 /**
  * mulOp multiply two numbers and subtract with the last number and return the result.
  * @param {number} a 
